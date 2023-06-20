@@ -40,6 +40,7 @@ public class Cliente {
         public String getinformacion() {
             return "nombre: " + getNombre() + " apellido " + getApellido() + " indentificacion: " + getIdentificacion();
         
+            
     }
     
 }
